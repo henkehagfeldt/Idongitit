@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Idongitit</string>
+    <string name="app_name">GITit</string>
+    <string name="startButton">Start</string>
 </resources>
